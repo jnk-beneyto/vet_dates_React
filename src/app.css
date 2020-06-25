@@ -1,0 +1,11 @@
+.box {
+    min-height: 400px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    border-radius: 5px;
+}
+
+#crear {
+    display: block;
+    width: 100%;
+}
