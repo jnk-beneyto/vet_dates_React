@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.css"],"names":[],"mappings":"AAAA,KACI,gBAAiB,CACjB,eAAgB,CAChB,wBAA4B,CAC5B,iBACJ,CAEA,OACI,aAAc,CACd,UACJ","file":"main.05473857.chunk.css","sourcesContent":[".box {\n    min-height: 400px;\n    margin-top: 20px;\n    background-color: whitesmoke;\n    border-radius: 5px;\n}\n\n#crear {\n    display: block;\n    width: 100%;\n}"]}
